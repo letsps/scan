@@ -1,2 +1,2 @@
-# scan
-This is a software which can merge two pdf
+# smos
+This is a software which can merge two pdf. Simple Merge Once Scan
